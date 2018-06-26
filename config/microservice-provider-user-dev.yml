@@ -2,3 +2,4 @@ profile: dev-1.0
 author: lgh
 server:
   port: 8111
+password: '{cipher}{key:mytestkey}AQCXbBks+LHMKy3CJ0jOnNguF2PSWEZXOLzczmiiw8b5zMpprmAJ8/s65XwWNoQNRf/LbFWUx27wOs3GZOE1F/CpUjKlm9UTNPu7wFRSsBSdC7FW/fhq+5umMMs5GDv5JrsEsccXOJ1/6CInOqOAH8Z5eB3KQYRf6dHu/cUb6a2blAFhpC01Hz4JUwKCZ5lC2TEjkVLIGqYH4YyYvXS9FTGWeMfMw/1UOUgAF7AhWk8MoVQbi2EFiuBqM33qV8mRkzM2mwDcrbJOPVXzMFPjZ2e/hFuiFFtpvlT3MKi1ruCUfH8PHzh3ke7pJxH6N0RrJugqs7m0qmSxhO6t1mFoZtPR2O77iFdz1T//VmiXtpkzs3SBWYo3dH8mGh9+uRXRA54=3dH8mGh9+uRXRA54='
