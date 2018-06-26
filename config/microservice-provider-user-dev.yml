@@ -1,4 +1,4 @@
-profile=dev-1.0
-author=lgh
+profile: dev-1.0
+author: lgh
 server:
   port: 8111
